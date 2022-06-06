@@ -29,7 +29,7 @@ This is challenge by filed
      1. in `.env` file add the data as below
             
             # example
-            # DATABASE_URL="postgresql://prashant:rana@localhost:5432/audioserver"
+            # DATABASE_URL="postgresql://arijit@localhost:5432/audioserver"
             DATABASE_URL="postgresql://<username>:<password>@<server host>:<port>/<database name>
             SECRET_KEY="this-is-a-sample-secret-key"
             FLASK_ENV="development"
