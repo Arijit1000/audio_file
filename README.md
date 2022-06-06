@@ -9,7 +9,7 @@ This is challenge by filed
  
     1. clone the code in a directory
       
-            git clone [https://github.com/Arijit1000/audio_file.git]
+            git clone (https://github.com/Arijit1000/audio_file.git)
     2. go in the directory `cd filed_audio_file_server`
     3. install all project requirements, use command
         `python -m pipenv install -r requirements.txt`
